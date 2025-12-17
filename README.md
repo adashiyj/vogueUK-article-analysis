@@ -1,5 +1,7 @@
 # README
 
+This repository hosts my code and data for the Big Data 1 final assignment. 
+
 ### Setup requirements
 - Python 3.9+ (I'm using 3.12.7)
 - Google Colab or a local machine with GPU support
